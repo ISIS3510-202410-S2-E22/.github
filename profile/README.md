@@ -1,5 +1,5 @@
 
-<img src="https://github.com/ISIS3510-202410-Team23/.github/assets/77981728/27971cb6-5d36-41b4-a1d7-8a56eec71bcc" alt="ISIS3510 Banner Team 23"  width = 100%>
+<img src="https://github.com/ISIS3510-202410-Team23/.github/assets/77981728/d8fed08d-082c-4ac1-8fbd-cdfa10ba0e36" alt="ISIS3510 Banner Team 23"  width = 100%>
 
 
 # This is the GitHub Organization for Team 23 (Section 2)
