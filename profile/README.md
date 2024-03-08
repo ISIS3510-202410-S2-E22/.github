@@ -13,6 +13,6 @@
 * Juan Camilo Falla [@JuanCamFalla](https://github.com/JuanCamFalla)
 * Maria Castro Iregui [@mar-cas3](https://github.com/mar-cas3)
 * Nicolás Klopstock [@nklopstock611](https://github.com/nklopstock611)
-* Laura María Restrepo Palomino [@laurarestrepo03](https://github.com/laurarestrepo03)
+* Laura María Restrepo Palomino [@Laurarestrepo03](https://github.com/laurarestrepo03)
 * Alejandro Salgado [@Alejandro1400](https://github.com/Alejandro1400)
 * Juan Diego Yepes Parra [@juanyepesp](https://github.com/juanyepesp)
