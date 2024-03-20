@@ -8,6 +8,8 @@
 * [Wiki Homepage](https://github.com/ISIS3510-202410-Team23/Backend/wiki)
 * [Flutter Repository](https://github.com/ISIS3510-202410-Team23/FlutterApp)
 * [Swift Repository](https://github.com/ISIS3510-202410-Team23/SwiftApp)
+* [Backend Repository](https://github.com/ISIS3510-202410-Team23/Backend)
+* [Analytics Repository](https://github.com/ISIS3510-202410-Team23/Analytics)
 
 ### The Team 
 * Juan Camilo Falla [@JuanCamFalla](https://github.com/JuanCamFalla)
